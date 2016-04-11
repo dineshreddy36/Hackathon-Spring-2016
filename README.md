@@ -40,7 +40,7 @@ This same process continues for all the bisected substrings and at the end it wi
 
 The output along with original input string will be stored to output file.
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/hirenshah7390/Hackathon_Spring2016/blob/master/src/PerformanceGraph.png)
 
 
 
