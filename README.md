@@ -11,11 +11,10 @@ Assume that expression is syntactically correct: all operators have proper left 
 and balanced.
 
 Examples:
-(3+2) <= 5 produces result true.
-4/3 > 1 produces result true.
-2*(3+6/2)/4 == 3 produces true.
-(A1/A1_avg)*100 > 90 produces true given A1= 95 and A1_avg = 90.
-(A1/A1_avg)*100 <= 90 && (A1/A1_avg)*100 > 80 produces true given A1= 85 and A1_avg = 90
+•	(3+2) <= 5 produces result true. 4/3 > 1 produces result true. 
+•	(3+6/2)/4 == 3 produces true. 
+•	(A1/A1_avg)100 > 90 produces true given A1= 95 and A1_avg = 90. 
+•	(A1/A1_avg)100 <= 90 && (A1/A1_avg)100 > 80 produces true given A1= 85 and A1_avg = 90
 
 Your code should accept list to input variables and the list of expressions and return the list of outputs.
 
