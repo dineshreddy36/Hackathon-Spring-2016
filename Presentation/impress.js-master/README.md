@@ -1,2 +1,2 @@
-This is web based PPT and now MS Office PPT. Please download it and run index.html file in the browser to view it.
+This is web based PPT and not MS Office PPT. Please download entire folder and run index.html file in the browser to view it.
 
