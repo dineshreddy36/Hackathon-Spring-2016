@@ -1,4 +1,4 @@
-# Hackathon_Spring2016
+# Expression Parser
 This repository is for Hackathon competition project which is of building Algorithm to solve the expression. Below is the usecase.
 
                            ERICSSON USE CASE 1
